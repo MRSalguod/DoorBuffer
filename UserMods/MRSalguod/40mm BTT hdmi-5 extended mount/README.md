@@ -8,3 +8,13 @@ You will need to print 1 of each of the parts from the STL folder. No supports n
 Remixed from @DETMan's BTT HDMI5 Mount for Clicky Clack Door for use with the DraftShift Design Door Buffer.   [(Printables Link)](https://www.printables.com/model/861544)
 
 Whom remixed it from @EDnation.   [(Printables Link)](https://www.printables.com/model/787236)
+
+### Pictures:
+
+![1.jpg](./Media/1.jpg)
+
+![2.jpg](./Media/2.jpg)
+
+![3.jpg](./Media/3.jpg)
+
+![4.jpg](./Media/4.jpg)
