@@ -9,6 +9,27 @@ Remixed from @DETMan's BTT HDMI5 Mount for Clicky Clack Door for use with the Dr
 
 Whom remixed it from @EDnation.   [(Printables Link)](https://www.printables.com/model/787236)
 
+
+### Files to print:
+  
+* [1] TT HDMI5 Mount forClicky-Clack Fridge Doorwith Door Buffer v2.3mf
+  
+* [1] ORIG - BTT HDMI5 mount frame.stl
+
+* [2] ORIG -BTT HDMI5 Cable protector-180 deg.stl
+
+* [1] (optional) DET-Man BTT HDMI5 Display Cover.stl
+
+* [1] (optional) DET-Man BTT HDMI5 Display Cover Logo Inlay.stl 
+
+
+### BOM:
+
+* [4] M3 Heatset inserts
+
+* [8] M3x8 SHC
+
+
 ### Pictures:
 
 ![3.jpg](./Media/3.jpg)
@@ -18,3 +39,26 @@ Whom remixed it from @EDnation.   [(Printables Link)](https://www.printables.com
 ![2.jpg](./Media/2.jpg)
 
 ![4.jpg](./Media/4.jpg)
+
+
+
+### License: 
+(Shared the same as the original)
+
+Creative Commons LicenseThis work is licensed under a
+
+Creative Commons (4.0 International License)
+
+Attribution
+
+✖ | Sharing without ATTRIBUTION
+
+✔ | Remix Culture allowed
+
+✔ | Commercial Use
+
+✔ | Free Cultural Works
+
+✔ | Meets Open Definition
+
+
